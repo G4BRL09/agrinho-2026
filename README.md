@@ -1,1 +1,3 @@
-# agrinho-2026
+# Agronegócio na Tecnologia
+
+Desenvolvido para o concurso do Agrinho
