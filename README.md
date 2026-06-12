@@ -1,10 +1,6 @@
-Com base nos textos, no código HTML e no arquivo CSS fornecidos, aqui está a descrição clara, resumida e estruturada do seu projeto para o **Agrinho 2026**:
-
----
-
 ### **1. Ideia Central do Projeto**
 
-O projeto explora a evolução tecnológica no campo sob o lema **“Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente”**. A ideia principal é mostrar como a modernização e a inovação das máquinas agrícolas quebraram o antigo paradigma de que era preciso desmatar para produzir mais. O foco está na **otimização e na verticalização da produção** (produzir mais no mesmo espaço), utilizando inteligência artificial, sensores e novos manejos para proteger o solo e os recursos naturais.
+O projeto explora a evolução tecnológica no campo, "Agronegócio e Tecnologia". A ideia principal é mostrar como a modernização e a inovação das máquinas agrícolas quebraram o antigo paradigma de que era preciso desmatar para produzir mais. O foco está na **otimização e na verticalização da produção** (produzir mais no mesmo espaço), utilizando inteligência artificial, sensores e novos manejos para proteger o solo e os recursos naturais.
 
 ---
 
