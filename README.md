@@ -1,10 +1,10 @@
-### **1. Ideia Central do Projeto**
+### **### **Agricultura e Tecnologia**
 
-O projeto explora a evolução tecnológica no campo, "Agronegócio e Tecnologia". A ideia principal é mostrar como a modernização e a inovação das máquinas agrícolas quebraram o antigo paradigma de que era preciso desmatar para produzir mais. O foco está na **otimização e na verticalização da produção** (produzir mais no mesmo espaço), utilizando inteligência artificial, sensores e novos manejos para proteger o solo e os recursos naturais.
+O projeto explora a evolução tecnológica no campo do Agronegócio. A ideia principal é mostrar como a modernização e a inovação das máquinas agrícolas auxilia na produção e .
 
 ---
 
-### **2. Estrutura de Conteúdo (Narrativa)**
+### **Conteúdo**
 
 O conteúdo do seu projeto está dividido em dois grandes pilares de comparação e evolução:
 
@@ -21,9 +21,6 @@ O projeto está sendo construído como uma aplicação web responsiva (que funci
 * **Área de Navegação (`main`):** Funciona como um portal/vitrine dinâmico baseado em dois **Cards Interativos** (clicáveis), que levam o usuário para páginas com conteúdos mais detalhados:
 1. **Card 1 (Link para `block_a.html`):** Focado na *Otimização da Mão de Obra* e no fim da expansão sobre a vegetação nativa.
 2. **Card 2 (Link para `block_b.html`):** Focado no *Avanço Tecnológico* como o principal aliado da sustentabilidade ambiental e dos recordes de safra.
-
-
-
 
 * **Identidade Visual e Estilo (`style.css`):**
 * **Cores:** Uso forte de tons de verde (`#2e7d32`, `#1e4620`) ligados à terra e à sustentabilidade, contrastando com textos escuros legíveis e destaques em negrito verde.
