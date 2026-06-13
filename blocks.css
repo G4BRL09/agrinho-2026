@@ -60,13 +60,13 @@ body {
 .textoA {
     flex: 1;
     color: white;
-    font-size: 32px;
+    font-size: 28px;
     font-family: "Fondamento", cursive;
 }
 
 .textoA h2 {
     color: white;
-    margin-top: 30px; /* desce o título */
+    margin-top: 10px; /* desce o título */
     font-family: 'Unica One', cursive;
 }
 
